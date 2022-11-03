@@ -1,0 +1,141 @@
+*{
+    padding: 0;
+    margin: 0;
+
+}
+.main{
+    width: 100%;
+    height: 1000px;
+    float: left;
+
+}
+.navbar{
+    float: left;
+    height:100px;
+    width: 100%;
+
+}
+.nlefts{
+    float: left;
+    width: 250px;
+    height: 100px;
+    border: 5px solid white;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+   
+}
+.nlefts span{
+    color: #27AE60;
+    font-size: 18px;
+    float: left;
+
+}
+.right{
+    width: 800px;
+    height: 100px;
+    float: left;
+    margin-left: 200px;
+}
+.right ul li{
+    float: left;
+    list-style-type: none;
+    margin-left: 100px;
+    font-size: 15px;
+    margin-top: 60px;
+
+}
+.right ul li a{
+    color: black;
+}
+.zeyn{
+    float: right;
+    background-color: blue;
+    width: 300px;
+    height: 100px;
+}
+.zeyn span{
+    color: aliceblue;
+    font-size: 18px;
+    display: flex;
+    justify-content: center;
+    float: left;
+    margin-left: 5px;
+
+}
+.di{
+    width: 50px;
+    height: 50px;
+    float: left;
+    background-image: url("../img/Vector.png");
+    background-repeat: no-repeat;
+    position: absolute;
+
+    
+}
+.dunya{
+    width: 1100px;
+    height: 100px;
+    float: left;
+    margin-top: 300px;
+    margin-left: 150px;
+    font-size: 100px;
+
+}
+.dunya span{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    margin-left: 200px;
+    margin-top: 10px;
+    color: #27AE60;
+}
+.dadli{
+    width: 1000px;
+    float: left;
+    height: 400px;
+    margin-top: 300px;
+    margin-left: 150px;
+    font-size: 100px;
+}
+.dadli span{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    margin-top: 110px;
+}
+.center{
+    float: left;
+    width: 100%;
+    height: 600px;
+    background-repeat: no-repeat;
+    background-image:url("../img/02-gigapixel-scale-2_00x\ 1.png");
+    background-size: cover;
+}
+.s{
+    width: 900px;
+    height: 300px;
+    float: left;
+    margin-left: 250px;
+    margin-top: 200px;
+}
+ .s span{
+    font-size: 90px;
+    color: #27AE60;
+    width: 900px;
+    height: 300px;
+    margin-left: 100px;
+    margin-top: 200px;
+}
+.e{
+    width: 900px;
+    height: 300px;
+    float: left;
+}
+.e span{
+    font-size: 90px;
+    color: #494949;
+    margin-left: 200px;
+    margin-top: 150px;
+
+}
